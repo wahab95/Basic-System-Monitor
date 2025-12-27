@@ -47,8 +47,8 @@ BSM is a hobby project designed to showcase a modern approach to system monitori
 
 1. Clone the repository:
 ```bash
-git clone <url>
-cd "Modern Task Manager"
+git clone https://github.com/wahab95/Basic-System-Monitor
+cd "Basic System Monitor"
 ```
 
 2. Install dependencies:
