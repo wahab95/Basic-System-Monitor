@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="232.32222mm"
+   height="142.41016mm"
+   viewBox="0 0 232.32222 142.41016"
+   version="1.1"
+   id="svg1"
+   inkscape:export-batch-path="/home/wahab"
+   inkscape:export-batch-name="My Logo"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="86.79245"
+       y="62.893082"
+       width="318.23898"
+       height="428.93082"
+       id="rect123" />
+    <linearGradient
+       id="swatch7"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.1693327,25.861193)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77052;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect105"
+       width="2.1497698"
+       height="117.36366"
+       x="-97.541702"
+       y="-231.36519"
+       transform="matrix(-0.40833942,0.91283017,-0.78066329,-0.62495186,0,0)" />
+    <circle
+       style="fill:#d02222;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle105"
+       cx="143.62509"
+       cy="-4.776413"
+       r="21.08478" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.77052;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect106"
+       width="2.1497698"
+       height="117.36366"
+       x="-169.20502"
+       y="-193.88025"
+       transform="matrix(-0.40833942,-0.91283017,-0.78066329,0.62495186,0,0)" />
+    <circle
+       style="fill:#006c35;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="circle106"
+       cx="44.421421"
+       cy="-204.0681"
+       r="21.08478"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#d02222;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="circle107"
+       cx="143.62509"
+       cy="-93.61924"
+       r="21.08478"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(12.133113,0,0,12.133113,-1060.5226,-777.68125)"
+       id="text123"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect123);fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.64567;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
+         x="86.792969"
+         y="73.701631"
+         id="tspan1">A</tspan></text>
+  </g>
+</svg>

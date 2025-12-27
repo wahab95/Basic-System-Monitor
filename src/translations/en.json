@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "main": {
+    "title": "System Monitor",
+    "memory": "Memory",
+    "cpu": "CPU",
+    "gpu": "GPU",
+    "total": "Total",
+    "used": "Used",
+    "free": "Free",
+    "usage": "Usage",
+    "model": "Model",
+    "cores": "Cores",
+    "vendor": "Vendor",
+    "networkInterface": "Network Interface",
+    "ipAddress": "IP Address",
+    "type": "Type",
+    "version": "Version",
+    "subnet": "Subnet",
+    "gateway": "Gateway",
+    "dns": "DNS",
+    "macAddress": "MAC Address",
+    "notAvailable": "Not available",
+    "noGpuDetected": "No GPU detected"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "themeDescription": "Choose between dark and light mode",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language",
+    "languageDescription": "Choose your preferred language"
+  },
+  "about": {
+    "title": "About",
+    "welcome": "Welcome",
+    "welcomeText1": "This application was created for",
+    "funAndExploring": "fun and exploring",
+    "welcomeText2": "the capabilities of modern web technologies and system monitoring.",
+    "welcomeText3": "It's a hobby project designed to showcase how web applications can interact with",
+    "welcomeText4": "system resources and provide real-time monitoring capabilities.",
+    "feedback": "Feedback",
+    "feedbackText1": "Your feedback is valuable and helps improve this project! If you have suggestions,",
+    "feedbackText2": "found any issues, or just want to share your thoughts, please don't hesitate to reach out.",
+    "feedbackNote": "This is a learning project, and every piece of feedback helps make it better.",
+    "disclaimer": "Disclaimer",
+    "disclaimerText": "This application is a hobby project and showcase. It is not intended for",
+    "disclaimerText2": "professional system monitoring purposes."
+  },
+  "footer": {
+    "copyright": "Abdulwahhab Alzahrani © 2025"
+  }
+}
+

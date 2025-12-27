@@ -1,0 +1,46 @@
+{
+  "name": "BSM",
+  "description": "basic System Monitor",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./main.js",
+  "license": "MIT",
+  "author": "Abdulwahhab",
+  "homepage": ".",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "electron .",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "f.start": "electron-forge start",
+    "f.package": "electron-forge package",
+    "f.make": "electron-forge make"
+  },
+  "files": ["./preload.cjs"],
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router": "^7.10.1",
+    "systeminformation": "^5.21.20"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "@electron-forge/cli": "^7.8.3",
+    "@electron-forge/maker-wix": "^7.10.2",
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "babel-loader": "^10.0.0",
+    "electron": "^39.2.6",
+    "electron-wix-msi": "^5.1.3",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.2.4"
+  }
+}

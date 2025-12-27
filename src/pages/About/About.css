@@ -1,0 +1,166 @@
+/* About Container */
+.about-container {
+  min-height: 85vh;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark Mode Styles */
+.about-container.dark {
+  background-color: #16213e;
+  color: #e0e0e0;
+}
+
+/* Light Mode Styles */
+.about-container.light {
+  background-color: #f5f5f5;
+  color: #333333;
+}
+
+/* About Card */
+.about-card {
+  max-width: 800px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.about-container.light .about-card {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-card h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 2rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.about-container.light .about-card h1 {
+  color: #1a1a1a;
+  border-bottom-color: rgba(0, 0, 0, 0.1);
+}
+
+.about-container.dark .about-card h1 {
+  color: #ffffff;
+}
+
+/* About Content */
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* About Section */
+.about-section {
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.about-container.light .about-section {
+  background: rgba(0, 0, 0, 0.02);
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.about-section h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  transition: color 0.3s ease;
+}
+
+.about-container.dark .about-section h2 {
+  color: #ffffff;
+}
+
+.about-container.light .about-section h2 {
+  color: #1a1a1a;
+}
+
+.about-section p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 1rem 0;
+  transition: color 0.3s ease;
+}
+
+.about-section p:last-child {
+  margin-bottom: 0;
+}
+
+.about-container.dark .about-section p {
+  color: #e0e0e0;
+}
+
+.about-container.light .about-section p {
+  color: #333333;
+}
+
+.about-section p strong {
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.about-container.dark .about-section p strong {
+  color: #ffffff;
+}
+
+.about-container.light .about-section p strong {
+  color: #1a1a1a;
+}
+
+.feedback-note {
+  font-style: italic;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-left: 3px solid #4caf50;
+  border-radius: 4px;
+  margin-top: 1rem !important;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.about-container.light .feedback-note {
+  background: rgba(0, 0, 0, 0.03);
+  border-left-color: #2196f3;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-container {
+    padding: 1rem;
+  }
+
+  .about-card {
+    padding: 1.5rem;
+  }
+
+  .about-card h1 {
+    font-size: 2rem;
+  }
+
+  .about-section {
+    padding: 1rem;
+  }
+
+  .about-section h2 {
+    font-size: 1.25rem;
+  }
+
+  .about-section p {
+    font-size: 0.9rem;
+  }
+}
+
